@@ -14,6 +14,7 @@ Aura Landing Page is a sleek, modern UI design that embodies a sense of uniquene
 **CSS** : For styling and sleek animations. 🎨
 
 **Three.js** : JavaScript library for creating 3D graphics. 🖼️
+<br/>
 
 ## Let Aura redefine your online presence! 🌈
 
