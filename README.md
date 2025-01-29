@@ -7,8 +7,6 @@ Aura Landing Page is a sleek, modern UI design that embodies a sense of uniquene
 
 **HTML** : Markup language used for structuring the content. 🖋️
 
-**GSAP** : JavaScript library for high-performance animations. 🌀
-
 **JavaScript** : For interactive functionality and smooth transitions. ⚡
 
 **CSS** : For styling and sleek animations. 🎨
